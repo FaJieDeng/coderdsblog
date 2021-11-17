@@ -4,5 +4,7 @@ icon: fas fa-info-circle
 order: 4
 ---
 
+站点主要记录本人学习当中的笔记
 
-> **Note**: Add Markdown syntax content to file `_tabs/about.md` and it will show up on this page.
+如有帮助，请点赞
+
